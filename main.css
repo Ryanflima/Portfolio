@@ -1,5 +1,5 @@
 html { 
-    background: url(bg.jpeg) no-repeat center center fixed; 
+    background: url(bg.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -40,10 +40,15 @@ html {
      border: 40px;
      text-align: center;
      font-size: 14px;
+     margin-top: 50px;
    } 
 
-
-
+    .grey {
+      height: 3px;
+      background-color: #bfbfbf;
+      border: none;
+      width: 50px;
+    }
 
 
     
