@@ -50,5 +50,21 @@ html {
       width: 50px;
     }
 
+    #scratch {
+      width: 400px;
+     margin-left: 490px;
+     margin-right: 400px;
+     border: none;
+     margin-top: 100px;
+    }
 
+    .line {
+      height: 3px;
+      background-color: #bfbfbf;
+      border: none;
+      width: 250px;
+    }
     
+    #Buttons {
+      font-size: 20px;
+        }
